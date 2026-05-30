@@ -12,3 +12,17 @@
                               /_/            /____/                                      
   </pre>
 </center>
+Volta Music Player is a modern, lightweight, and intuitive audio player designed to deliver a smooth and enjoyable listening experience.
+<div align="center">
+==========<br>
+how it work ?<br>
+==========<br>
+In your Volta folder you will find a folder music_library<br>
+Volta's file should be organized like this:<br>
+</div>
+<br>
+├── Volta.exe          ← the app<br>
+├── music_library/     ← where you put your music (by artists and then in the artist folder, the album folder, where the music files are located)<br>
+│   └── Artiste/<br>
+│       └── Album/<br>
+└── data/              ← Automatic creation (playlists)<br>
