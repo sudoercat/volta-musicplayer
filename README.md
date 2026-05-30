@@ -22,7 +22,7 @@ Volta's file should be organized like this:<br>
 </div>
 <br>
 ├── Volta.exe          ← the app<br>
-├── music_library/     ← where you put your music (by artists and then in the artist folder, the album folder, where the music files are located)<br>
+├── music_library/     ← where you put your music (by artist folder, the album folder, where the music files are located)<br>
 │   └── Artiste/<br>
 │       └── Album/<br>
 └── data/              ← Automatic creation (playlists)<br>
