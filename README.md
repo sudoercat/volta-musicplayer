@@ -12,7 +12,8 @@
                               /_/            /____/                                      
   </pre>
 </center>
-Volta Music Player is a modern, lightweight, and intuitive audio player designed to deliver a smooth and enjoyable listening experience.
+Volta Music Player is a modern, lightweight, and intuitive audio player designed to deliver a smooth and enjoyable listening experience.<br>
+you can find the .exe on the release section<br>
 <div align="center">
 ==========<br>
 how it work ?<br>
