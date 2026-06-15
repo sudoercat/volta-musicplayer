@@ -34,7 +34,7 @@ volta-musicplayer<br>
 <br>
 for the python version u must use this command for outbuildings :<br>
 <pre>
-pip install flask PyQt6 PyQt6-WebEngine
+pip install voltaMP
 </pre>
 <br>
 
