@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "voltaMP"
+version = "0.1.0"
+description = "A lightweight local music player built with PyQt6"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+    { name = "Ton Nom" }
+]
+dependencies = [
+    "PyQt6",
+]
+
+[project.scripts]
+voltamp = "volta.main:main"
