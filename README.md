@@ -32,7 +32,7 @@ volta-musicplayer<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└──music.webp/mp3/wav... cover.webp<br>
 └── data/              ← Automatic creation (playlists)<br>
 <br>
-for the python version u must use this command for outbuildings :<br>
+for the python version u must use this command for download directly :<br>
 <pre>
 pip install voltaMP
 </pre>
