@@ -34,3 +34,6 @@ for the python version u must use this command for outbuildings :<br>
 <pre>
 pip install flask PyQt6 PyQt6-WebEngine
 </pre>
+<br>
+
+[![badge](https://shieldcn.dev/badge/download-Python%20version-22c55e.svg?logo=python&color=1a67e6)](https://github.com/sudoercat/volta-musicplayer/releases/download/1.0.0/volta.py)
