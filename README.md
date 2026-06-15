@@ -1,3 +1,4 @@
+[![badge](https://shieldcn.dev/badge/download-windows%20x64%20version-22c55e.svg?logo=lu%3APackage&color=4cfc44)](https://github.com/sudoercat/volta-musicplayer/releases/download/1.0.0/volta.exe)
 <center>
   <pre>
  _    __      ____       
