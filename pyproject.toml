@@ -9,7 +9,7 @@ description = "A lightweight local music player built with PyQt6"
 readme = "README.md"
 requires-python = ">=3.9"
 authors = [
-    { name = "Ton Nom" }
+    { name = "sudoercat" }
 ]
 dependencies = [
     "PyQt6",
