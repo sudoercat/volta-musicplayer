@@ -1,3 +1,4 @@
+[![platform: linux | macos | windows](https://www.freewebtools.com/api/badge/platform-linux%20%7C%20macos%20%7C%20windows-007ec6.svg?style=flat&labelColor=555)](https://www.freewebtools.com/github-badge-generator/)
 [![badge](https://shieldcn.dev/badge/search%20for-.MP3%20files-22c55e.svg?logo=lu%3ASearch&color=ec4899)](https://raw.githubusercontent.com/sudoercat/volta-musicplayer/refs/heads/main/music_source.txt)                                                                       [![badge](https://shieldcn.dev/badge/download-windows%20x64%20version-22c55e.svg?logo=lu%3APackage&color=4cfc44)](https://github.com/sudoercat/volta-musicplayer/releases/download/1.0.0/volta.exe) [![badge](https://shieldcn.dev/badge/download-Python%20version-22c55e.svg?logo=python&color=1a67e6)](https://github.com/sudoercat/volta-musicplayer/releases/download/1.0.0/volta.py)
 
 <center>
