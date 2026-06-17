@@ -38,3 +38,4 @@ pip install voltaMP
 </pre>
 <br>
 
+[![badge](https://shieldcn.dev/badge/check-pip%20version-22c55e.svg?logo=lu%3ACode&logoColor=000000&color=8b5cf6)](https://pypi.org/project/voltaMP/)
